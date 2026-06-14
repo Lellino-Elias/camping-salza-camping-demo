@@ -74,7 +74,7 @@ const campingSalza: CampsiteConfig = {
       {
         title: "Wildromantische Salza",
         text: "Die Salza zählt zu den wenigen Flüssen mit Trinkwasserqualität — wildromantisch zwischen dichten Wäldern und Felswänden.",
-        image: { src: `${IMG}/hero-06c439a562.webp`, alt: "Raft auf der Salza, eingerahmt von herbstlichem Wald" },
+        image: { src: `${IMG}/gallery-97923e2d40.webp`, alt: "Türkises Wasser der Salza mit Boot, von oben zwischen bewaldeten Ufern" },
       },
       {
         title: "Schmankerl & Grillabende",
