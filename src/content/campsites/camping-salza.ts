@@ -72,6 +72,11 @@ const campingSalza: CampsiteConfig = {
       "Vom Zelt bis zur Hütte, vom Lagerfeuer bis zum Wildwasser — am Saggraben hast du den Fluss, die Berge und alles Nötige direkt am Platz.",
     features: [
       {
+        title: "Wildromantische Salza",
+        text: "Die Salza zählt zu den wenigen Flüssen mit Trinkwasserqualität — wildromantisch zwischen dichten Wäldern und Felswänden.",
+        image: { src: `${IMG}/hero-06c439a562.webp`, alt: "Raft auf der Salza, eingerahmt von herbstlichem Wald" },
+      },
+      {
         title: "Schmankerl & Grillabende",
         text: "Internationale Küche, ausgiebige Grillabende für Gruppen und abendlicher Pub-Betrieb im Restaurant Sälzam mit überdachter Terrasse.",
         image: { src: `${IMG}/hero-adee305636.webp`, alt: "Burger mit Pommes im Restaurant Sälzam" },
@@ -85,11 +90,6 @@ const campingSalza: CampsiteConfig = {
         title: "Canyoning in den Schluchten",
         text: "Abseilen, Springen und Rutschen durch enge Schluchten — geführte Canyoning-Touren für Genießer wie Adrenalinfinder.",
         image: { src: `${IMG}/hero-d1574ec627.webp`, alt: "Person beim Canyoning in einer Schlucht" },
-      },
-      {
-        title: "Wildromantische Salza",
-        text: "Die Salza zählt zu den wenigen Flüssen mit Trinkwasserqualität — wildromantisch zwischen dichten Wäldern und Felswänden.",
-        image: { src: `${IMG}/hero-06c439a562.webp`, alt: "Raft auf der Salza, eingerahmt von herbstlichem Wald" },
       },
       {
         title: "Idyllische Hütten am Platz",
