@@ -34,12 +34,12 @@ const campingSalza: CampsiteConfig = {
     },
     {
       title: "Restaurant Sälzam",
-      text: "Internationale Schmankerl, große überdachte Terrasse und abendlicher Pub-Betrieb — das Restaurant Sälzam liegt im Hauptgebäude des Platzes.",
+      text: "Das Restaurant Sälzam im Hauptgebäude bietet internationale Schmankerl, überdachte Terrasse und abendlichen Pub-Betrieb.",
       image: { src: `${IMG}/hero-6dd1afe69a.webp`, alt: "Hauptgebäude mit Restaurant Sälzam am Campingplatz Saggraben" },
     },
     {
       title: "Dein Wildwasser-Basislager",
-      text: "Deep Roots Adventures ist seit 1998 auf der Salza unterwegs — der Campingplatz ist das Basislager direkt an der Hauptausstiegsstelle.",
+      text: "Deep Roots Adventures ist seit 1998 auf der Salza unterwegs — mit dem Campingplatz als Basislager direkt an der Ausstiegsstelle.",
       image: { src: `${IMG}/hero-ab55e32c6b.webp`, alt: "Raftingboot im Wildwasser der Salza" },
     },
   ],
@@ -78,7 +78,7 @@ const campingSalza: CampsiteConfig = {
       },
       {
         title: "Schmankerl & Grillabende",
-        text: "Internationale Küche, ausgiebige Grillabende für Gruppen und abendlicher Pub-Betrieb im Restaurant Sälzam mit überdachter Terrasse.",
+        text: "Internationale Küche, Grillabende für Gruppen und abendlicher Pub-Betrieb im Restaurant Sälzam mit überdachter Terrasse.",
         image: { src: `${IMG}/hero-adee305636.webp`, alt: "Burger mit Pommes im Restaurant Sälzam" },
       },
       {
@@ -107,7 +107,7 @@ const campingSalza: CampsiteConfig = {
       {
         name: "Familienhütte",
         kind: "Hütte für bis zu 5 Personen",
-        text: "Zwei komfortabel eingerichtete Hütten mit Stromanschluss, jeweils Platz für fünf Personen — und Zugang zu allen Services des Platzes.",
+        text: "Komfortabel eingerichtete Hütten mit Stromanschluss, Platz für je fünf Personen und Zugang zu allen Services des Platzes.",
         image: { src: `${IMG}/gallery-a0e46fd192.webp`, alt: "Wohnraum der Familienhütte mit Kaminofen und Couch" },
         priceFrom: 32,
         features: ["Platz für 5 Personen", "Stromanschluss", "Gemütlicher Wohnraum"],
